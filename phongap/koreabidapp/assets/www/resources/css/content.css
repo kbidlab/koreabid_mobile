@@ -1,0 +1,152 @@
+
+/* **************************테이블******************************* */
+
+/* 테이블 라인 */
+table.tab_line{width:98%;height:150px;margin:0 10px;border:1px solid #cbcbcb;text-align:center}
+table.tab_tab_line td{padding:10px;text-align:left}
+
+/* 테이블 투명 */
+table.tab_t{border:0;text-align:left}
+table.tab_t td{padding:5px;text-align:left}
+
+/* 테이블 투명 */
+table.tab_t2{width:100%;text-align:center}
+table.tab_t2 th{width:60px;text-align:left}
+table.tab_t2 td{padding:2px;text-align:left}
+
+/* 테이블 투명_자세히 */
+table.tab_t_detail{width:100%;font-size:9pt;text-align:left; line-height:16px}
+table.tab_t_detail td{padding:5px;font-family:'Gulim';text-align:left}
+
+/* 테이블 탭메뉴 타이틀 */
+table.bid_tab_title{width:100%;border-collapse:collapse;background:url(/images/common/menuTabBg.gif);text-align:center}
+table.bid_tab_title th{width:100px;text-align:left}
+table.bid_tab_title td{padding:0;text-align:right}
+
+/* 테이블 탭메뉴 리스트 */
+table.bid_list_tab{width:100%;border-collapse:collapse;line-height:20px;text-align:center}
+table.bid_list_tab th{padding:2px 0 2px 20px;font-weight:bold;color:#000;text-align:left}
+table.bid_list_tab td{padding:2px 10px 2px 0;color:#333;text-align:left}
+
+/* 테이블 입찰검색(공종) */
+table.bid_search{width:100%;border-collapse:collapse;line-height:30px;text-align:center}
+table.bid_search th{background:#f2f2f2;font-weight:bold;color:#000;text-align:center}
+table.bid_search td{padding:2px 0 2px 10px;color:#333;text-align:left}
+table.bid_search th,table.bid_search td{border:1px solid #cbcbcb}
+
+/* 테이블 입찰검색(공종) */
+table.bid_search_90{border-collapse:collapse;line-height:30px;text-align:center; padding-left:10px}
+table.bid_search_90 th{background:#f2f2f2;font-weight:bold;color:#000;text-align:center}
+table.bid_search_90 td{padding:2px 0 2px 10px;color:#333;text-align:left}
+table.bid_search_90 th,table.bid_search_90 td{border:1px solid #cbcbcb}
+
+/* 테이블 입찰리스트(타이틀) */
+table.bid_list_title{width:100%;border-collapse:collapse;border:1px solid #b6c7da;background-color:#dee5ec;line-height:30px;text-align:center}
+table.bid_list_title th{padding:2px 0 2px 10px;font-weight:bold;color:#000;text-align:left}
+table.bid_list_title td{padding:2px 10px 2px 0;color:#333;text-align:right}
+
+/* 테이블 입찰리스트 */
+table.bid_list{width:100%;border-collapse:collapse;line-height:20px;text-align:center}
+table.bid_list th{padding:2px 0 2px 20px;font-weight:bold;color:#000;text-align:left}
+table.bid_list td{padding:2px 5px 2px 15px;color:#333;text-align:left}
+
+/* 테이블 입찰 상세보기 */
+table.bid_view{width:100%;margin-top:5px;border-collapse:collapse;font-size:9pt;line-height:25px;text-align:center}
+table.bid_view th{width:100px;padding:0 0 0 10px;background-color:#e5eaf0;font-weight:normal;color:#555;text-align:left}
+table.bid_view td{padding:0 0 0 10px;color:#333;text-align:left}
+table.bid_view th,table.bid_view td{border:1px solid #cbcbcb;font-family:Gulim}
+
+/* 테이블 입찰 상세보기(버튼) */
+table.bid_view_btn{width:100%;text-align:center}
+table.bid_view_btn th{background-image:none;text-align:left}
+table.bid_view_btn td{padding:0;text-align:right}
+table.bid_view_detail{width:100%;margin:0 0 5px;border-collapse:collapse;font-size:9pt;line-height:25px;text-align:center}
+table.bid_view_detail th{width:25%;padding:0 0 0 10px;background-color:#e5eaf0;color:#555;text-align:left}
+table.bid_view_detail td{padding:0 0 0 10px;color:#333;text-align:left}
+table.bid_view_detail th,table.bid_view_detail td{border:1px solid #cbcbcb;font-family:'Gulim'}
+
+table.bid_view_detail2{width:100%;border-collapse:collapse;font-size:9pt;line-height:25px;text-align:center}
+table.bid_view_detail2 th{padding:0 0 0 10px;background-color:#e5eaf0;color:#555;text-align:left}
+table.bid_view_detail2 td{padding:0 0 0 10px;color:#333;text-align:left}
+table.bid_view_detail2 th,table.bid_view_detail2 td{border:1px solid #cbcbcb;font-family:'Gulim'}
+
+/* 테이블 입찰 상세보기 */
+table.bid_view_result{width:100%;margin-top:5px;border-collapse:collapse;font-size:9pt;line-height:25px;text-align:center}
+table.bid_view_result th{width:100px;background-color:#e5eaf0;font-weight:normal;color:#555}
+table.bid_view_result td{padding:0;color:#333}
+table.bid_view_result th,table.bid_view_result td{border:1px solid #cbcbcb;font-family:'Gulim';text-align:center}
+
+/* **************************폰트******************************* */
+.list_tab_bid{padding-left:15px;background:url(/images/common/dotListTit.gif) no-repeat;font-size:14px;line-height:24px;color:#333;cursor:pointer}
+
+.list_order{font-size:13px;color:#838383}
+.list_s_date{font-size:12px;color:#838383}
+.list_e_date{padding-left:20px;font-size:12px;color:#ff7200}
+
+.view_accent{font-size:9pt;font-family:'Gulim';font-weight:bold;color:#000}
+.view_accent1{font-size:9pt;font-family:'Gulim';font-weight:bold;color:#f00}
+.view_accent2{font-size:9pt;font-family:'Gulim';color:#f00}
+.view_accent3{font-size:9pt;font-family:'Gulim';color:#039}
+
+.login_txt1{padding:10px 0 0 10px;font-size:15px;line-height:28px;color:#000}
+.login_txt2{padding-left:10px;font-size:12px;line-height:28px;color:#666}
+.login_txt3{padding-left:10px;font-size:13px;line-height:18px;color:#222}
+.login_txt4{padding-left:10px;font-size:12px;line-height:18px;color:#666}
+
+.result_coms0{padding-left:10px;font-size:15px;font-family:'Gulim';line-height:28px;color:#000}
+.result_coms1{padding-left:10px;font-size:15px;font-family:'Gulim';line-height:28px;color:#000}
+.result_coms2{padding-left:30px;font-size:9pt;font-family:'Gulim';line-height:18px;color:#f60}
+.result_coms3{padding-left:30px;font-size:12px;font-family:'Gulim';line-height:18px;color:#666}
+.result_coms4{padding-left:5px;font-size:12px;font-family:'Gulim';line-height:18px;color:#369}
+
+.rank_line1{width:98%;padding:0 0 5px;border-bottom:1px solid #666;line-height:1px}
+.rank_line2{width:98%;border-bottom:1px solid #ccc;line-height:5px}
+
+.blue{font-size:9pt;font-family:'Gulim';color:#03c}
+.red{font-size:9pt;font-family:'Gulim';color:#f00}
+.gray{font-size:9pt;font-family:'Gulim';color:#666}
+
+/* **************************기타******************************* */
+.line_1{height:20px;background:url(/images/common/bgLine20.gif)}
+.list_link{background:url(/images/common/dotListTit.gif) no-repeat #fff;cursor:pointer}
+
+.input_login{width:100%;height:29px;border:1px solid #CCC;font-size:18px}
+.input_search{height:20px;border:1px solid #CCC;font-size:13px}
+
+.tab_25{width:25%}
+.tab_75{width:75%}
+
+.td_l{text-align:left}
+.td_c{text-align:center}
+.td_r{text-align:right}
+
+/* **************************기타******************************* */
+#bid_tit{padding:20px 0 5px;border-bottom:3px solid #c2ccd9;font-size:9pt;font-family:'Gulim';font-weight:bold;color:#000;text-align:left}
+
+/* 리스트 페이지 넘버링 */
+#paging{overflow:hidden;width:100%;text-align:center;zoom:1}
+#paging ul{margin:2em auto;border:1px solid #FFF}
+#paging ul li{display:inline}
+#paging ul li a{display:inline-block;width:24px;height:27px;margin:0 2px;border:1px solid #EDECEC;font-weight:bold;font-size:.95em;vertical-align:middle}
+#paging ul li a:hover{border:1px solid #CCC;color:#FF7900}
+#paging ul li.prev a{border:1px solid #CCC;background:url(/images/common/bgPaging.gif) 0 top repeat-x;text-indent:-5000px}
+#paging ul li.next a{border:1px solid #CCC;background:url(/images/common/bgPaging.gif) 0 bottom repeat-x;text-indent:-5000px}
+#paging ul li.first a{border:1px solid #CCC;background:url(/images/common/bgPaging2.gif) 0 top repeat-x;text-indent:-5000px}
+#paging ul li.last a{border:1px solid #CCC;background:url(/images/common/bgPaging2.gif) 0 bottom repeat-x;text-indent:-5000px}
+#paging ul li.now a{width:23px;height:27px;color:#FF7900}
+#paging1{overflow:hidden;width:100%;text-align:center;zoom:1}
+#paging1 ul{border:1px solid #FFF}
+#paging1 ul li{display:inline}
+#paging1 ul li a{display:inline-block;width:25px;height:25px;margin:0 1px;border:1px solid #EDECEC;font-weight:bold;font-size:1em;vertical-align:middle}
+#paging1 ul li a:hover{border:1px solid #CCC;color:#FF7900}
+
+/* **************************버튼******************************* */
+
+/* 버튼 입찰 상세보기 */
+.btn_both{overflow:hidden;clear:both;width:100%}
+.btn_both .fl{float:left}
+.btn_both .fr{float:right}
+a.btn_view{display:inline-block;padding-right:4px;background:url(/images/common/btnViewDefault.gif) no-repeat 100% 0;font-size:14px;line-height:30px;color:#555;text-decoration:none !important;white-space:nowrap;word-spacing:-1px}
+a.btn_view span,a.btn_view strong{display:block;padding:1px 8px 0 10px;background:url(/images/common/btnViewDefault.gif) no-repeat}
+a.btn_view_right{display:inline-block;padding-right:4px;background:url(/images/common/btnViewDefault.gif) no-repeat 100% -33px;font-size:14px;line-height:30px;color:#555;letter-spacing:-1px;text-decoration:none !important;white-space:nowrap;word-spacing:-1px}
+a.btn_view_right span,a.btn_view_right strong{display:block;padding:1px 10px 0;background:url(/images/common/btnViewDefault.gif) no-repeat 0 -33px}
